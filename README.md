@@ -11,7 +11,7 @@ An open-source collection of templates, checklists, and guides for startups, sma
 
 ## How to Use
 
-1.  **Browse the folders:** Explore the `templates`, `guides`, and `checklists` directories.
+1.  **Browse the folders:** Explore the templates, guides, and checklists directories.
 2.  **Copy & Paste:** Open the Markdown (`.md`) file you need.
 3.  **Customize:** Copy the content into your own document and fill in the blanks. The comments and notes will guide you.
 
