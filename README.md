@@ -10,7 +10,7 @@ The Open-Source PR Starter Kit is my contribution to that effort. It is a curate
 
 ## The Vision behind the Kit
 
- HEAD
+HEAD
 1.  **Browse the folders:** Explore the templates, guides, and checklists directories.
 2.  **Copy & Paste:** Open the Markdown (`.md`) file you need.
 3.  **Customize:** Copy the content into your own document and fill in the blanks. The comments and notes will guide you.
