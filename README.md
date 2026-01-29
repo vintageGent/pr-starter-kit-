@@ -2,6 +2,8 @@
 
 Hey there, fellow seeker! I'm Mwithiga.
 
+As a Public Relations student, I've always been fascinated by the power of a well-told story. However, I also noticed a gap in how PR tools are built and shared. My mission is to make public relations better—not just through strategy, but through code and technology.
+
 Public relations has often felt like a walled garden—accessible only to those with deep pockets or established agency connections. I've always believed that the ability to tell your story effectively should be democratized. Whether you are a startup founder building a dream, a non-profit serving a community, or a seeker carving out your own path, you deserve the tools to be heard.
 
 The Open-Source PR Starter Kit is my contribution to that effort. It is a curated collection of templates, checklists, and guides designed to provide the foundational tools needed to communicate with clarity and build a meaningful presence.
